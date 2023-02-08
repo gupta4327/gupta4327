@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aman Gupta</h1>
 <h3 align="center">As a Project Engineer at Wipro and a data science enthusiast, I have a strong background in both technical and project management skills. My experience in the technology industry, combined with my passion for data science, has allowed me to develop a unique skill set that enables me to effectively tackle complex projects. I have a keen eye for detail and a problem-solving mindset, which enables me to find creative solutions to the challenges that arise in my work. I enjoy staying up-to-date with the latest advancements in the field of data science, and I am always looking for new ways to apply my skills to real-world problems. I am a dedicated and driven professional, committed to delivering high-quality results in a timely and efficient manner</h3>
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/29587600/217463791-8e89ca8c-2444-4b3b-a0c4-bd3675f7817b.gif" width="800" height="500"/>
+</p>
+
 - 🔭 I’m currently working on [Zomato Recommendation System](https://github.com/gupta4327/Zomato-_Recommendation_System)
 
 - 🌱 I’m currently learning **Deep Learning**
