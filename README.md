@@ -5,7 +5,7 @@
  <img src="https://user-images.githubusercontent.com/29587600/217463791-8e89ca8c-2444-4b3b-a0c4-bd3675f7817b.gif" width="800" height="500"/>
 </p>
 
-- 🔭 I’m currently working on [Zomato Recommendation System](https://github.com/gupta4327/Zomato-_Recommendation_System)
+- 🔭 I’m currently working on [YouTube Chat bot](https://github.com/gupta4327/YouTube_ChatBot)
 
 - 🌱 I’m currently learning **Deep Learning**
 
