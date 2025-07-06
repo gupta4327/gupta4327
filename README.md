@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Gupta</h1>
-<h3 align="center">I'm a Generative AI Engineer with 4+ years of experience in AI/ML, currently working at Accenture. My focus lies in building production-grade LLM-powered solutions, including Retrieval-Augmented Generation (RAG) systems, agentic workflows using LangChain and LangGraph, and end-to-end GenAI pipelines integrated with Azure OpenAI and Azure Cognitive Search.
-
-I’m passionate about designing AI systems that solve real business problems—ranging from knowledge assistants and RFP outline generators to enterprise-ready copilots. I enjoy optimizing prompts, orchestrating agents, and deploying scalable solutions using tools like Azure Functions, CI/CD, and cloud infrastructure.
-
-I'm always exploring the latest in LLMs, prompt engineering, and AI system design—and I love translating that into clean, effective, and impactful code.</h3>
+<h3 align="center">I'm a Generative AI Engineer with 4+ years of experience in AI/ML, currently working at Accenture. My focus lies in building production-grade LLM-powered solutions, including Retrieval-Augmented Generation (RAG) systems, agentic workflows using LangChain and LangGraph, and end-to-end GenAI pipelines integrated with Azure OpenAI and Azure Cognitive Search. I’m passionate about designing AI systems that solve real business problems—ranging from knowledge assistants and RFP outline generators to enterprise-ready copilots. I enjoy optimizing prompts, orchestrating agents, and deploying scalable solutions using tools like Azure Functions, CI/CD, and cloud infrastructure. I'm always exploring the latest in LLMs, prompt engineering, and AI system design—and I love translating that into clean, effective, and impactful code.</h3>
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/29587600/217463791-8e89ca8c-2444-4b3b-a0c4-bd3675f7817b.gif" width="800" height="500"/>
